@@ -28,7 +28,7 @@ stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 0 --cpu 1 -t 80s;stress-ng -l 0 --cpu
 
 
 
-stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 0 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 10 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 20 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 30 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 40 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 50 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 60 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 70 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 80 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 90 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 90 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 100 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;
+stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 0 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 10 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 20 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 30 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 40 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 50 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 60 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 70 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 80 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 90 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;stress-ng -l 100 --cpu 1 -t 80s;stress-ng -l 0 --cpu 1 -t 20s;
 
 
 CPU2: 9 og 21 minutter 
@@ -46,7 +46,7 @@ stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 0 --cpu 3 -t 80s;stress-ng -l 0 --cpu
 
 
 
-stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 0 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 10 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 20 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 30 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 40 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 50 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 60 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 70 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 80 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 90 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 90 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 100 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;
+stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 0 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 10 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 20 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 30 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 40 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 50 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 60 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 70 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 80 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 90 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 100 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;
 
 
 CPU4:
@@ -55,4 +55,4 @@ stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 0 --cpu 4 -t 80s;stress-ng -l 0 --cpu
 
 
 
-stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 0 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 10 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 20 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 30 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 40 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 50 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 60 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 70 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 80 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 90 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 90 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;stress-ng -l 100 --cpu 4 -t 80s;stress-ng -l 0 --cpu 4 -t 20s;
+stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 0 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 10 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 20 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 30 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 40 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 50 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 60 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 70 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 80 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 90 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;stress-ng -l 100 --cpu 3 -t 80s;stress-ng -l 0 --cpu 3 -t 20s;
