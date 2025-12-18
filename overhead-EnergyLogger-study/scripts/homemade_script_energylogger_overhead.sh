@@ -50,10 +50,10 @@ do
 	sleep "80" &
 	WORK_PID=$!
 	echo "Workload PID: $WORK_PID"
-	sleep "2"
 	# wait for workload to finish
 	wait "$WORK_PID"
 	kill -USR2 "$LOGGER_PID"  # --- mark logger inactive ---
+	sleep "2"
 	send_stop "$SAMPLEPERIOD" # -- stop the siglent ---
 	
 	
